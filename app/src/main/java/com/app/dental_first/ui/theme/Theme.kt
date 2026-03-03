@@ -36,7 +36,6 @@ private val LightColorScheme = lightColorScheme(
 @Composable
 fun Test_Dental_FirstTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
-    // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
     content: @Composable () -> Unit
 ) {

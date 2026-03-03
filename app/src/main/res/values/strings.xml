@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Test_Dental_First</string>
+    <string name="app_name">Dental First</string>
+
+    <string name="bottom_menu_home">Главная</string>
+    <string name="bottom_menu_catalog">Каталог</string>
+    <string name="bottom_menu_cart">Корзина</string>
+    <string name="bottom_menu_profile">Профиль</string>
+    <string name="bottom_menu_actions">Действия</string>
+
 </resources>
